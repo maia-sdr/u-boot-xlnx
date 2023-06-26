@@ -95,6 +95,7 @@ dtb-$(CONFIG_ARCH_ZYNQ) += zynq-zc702.dtb \
 	zynq-cse-qspi.dtb \
 	zynq-picozed.dtb \
 	zynq-picozed-sdr2.dtb \
+	zynq-plutoplus.dtb \
 	zynq-pluto-sdr.dtb \
 	zynq-m2k.dtb \
 	zynq-sidekiqz2.dtb \
